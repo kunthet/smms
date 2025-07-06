@@ -138,6 +138,29 @@ footer a {
     margin-top: 2rem;
 }
 
+.data-deletion-instructions {
+    padding: 4rem 0;
+    background: #fff;
+}
+
+.data-deletion-instructions .container {
+    max-width: 800px;
+}
+
+.data-deletion-instructions h1, .data-deletion-instructions h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.data-deletion-instructions ol {
+    list-style-position: inside;
+    padding-left: 20px;
+}
+
+.data-deletion-instructions li {
+    margin-bottom: 1rem;
+}
+
 .disclaimer {
     background: #fff3cd;
     color: #856404;

@@ -6,4 +6,7 @@
   - [✅] Add basic styling (`css/style.css`)
   - [✅] Ensure Privacy Policy is compliant with Facebook, Instagram, and LinkedIn.
 - [✅] **Feature: Documentation** (Full Stack) [1 day]
-  - [✅] Add README.md 
+  - [✅] Add README.md
+- [✅] **Feature: User Data Management** (Full Stack) [1 day]
+  - [✅] Create Data Deletion Instructions Page (`data-deletion.html`)
+  - [✅] Link to Data Deletion page from other pages. 
